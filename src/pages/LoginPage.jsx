@@ -19,7 +19,6 @@ function LoginPage() {
     const sessionToken = 'mock-session-token';
     localStorage.setItem('ticketapp_session', sessionToken);
 
-    // Redirect to dashboard
     window.location.href = '/dashboard';
   };
 
