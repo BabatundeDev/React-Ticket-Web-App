@@ -4,12 +4,6 @@ A responsive ticketing platform built with React and Vite, featuring user authen
 
 ---
 
-## 🚀 Live Demo
-
-- **Netlify**: [https://react-ticket-web-app.netlify.app](https://react-ticket-web-app.netlify.app)
-
----
-
 ## 📦 Tech Stack
 
 | Technology     | Purpose                          |
